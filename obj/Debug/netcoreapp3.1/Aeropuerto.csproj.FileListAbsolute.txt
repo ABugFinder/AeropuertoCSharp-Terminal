@@ -1,0 +1,13 @@
+F:\Proyectos\Programción\C#\Aeropuerto\Aeropuerto\Aeropuerto\bin\Debug\netcoreapp3.1\Aeropuerto.exe
+F:\Proyectos\Programción\C#\Aeropuerto\Aeropuerto\Aeropuerto\bin\Debug\netcoreapp3.1\Aeropuerto.deps.json
+F:\Proyectos\Programción\C#\Aeropuerto\Aeropuerto\Aeropuerto\bin\Debug\netcoreapp3.1\Aeropuerto.runtimeconfig.json
+F:\Proyectos\Programción\C#\Aeropuerto\Aeropuerto\Aeropuerto\bin\Debug\netcoreapp3.1\Aeropuerto.runtimeconfig.dev.json
+F:\Proyectos\Programción\C#\Aeropuerto\Aeropuerto\Aeropuerto\bin\Debug\netcoreapp3.1\Aeropuerto.dll
+F:\Proyectos\Programción\C#\Aeropuerto\Aeropuerto\Aeropuerto\bin\Debug\netcoreapp3.1\Aeropuerto.pdb
+F:\Proyectos\Programción\C#\Aeropuerto\Aeropuerto\Aeropuerto\obj\Debug\netcoreapp3.1\Aeropuerto.csproj.AssemblyReference.cache
+F:\Proyectos\Programción\C#\Aeropuerto\Aeropuerto\Aeropuerto\obj\Debug\netcoreapp3.1\Aeropuerto.AssemblyInfoInputs.cache
+F:\Proyectos\Programción\C#\Aeropuerto\Aeropuerto\Aeropuerto\obj\Debug\netcoreapp3.1\Aeropuerto.AssemblyInfo.cs
+F:\Proyectos\Programción\C#\Aeropuerto\Aeropuerto\Aeropuerto\obj\Debug\netcoreapp3.1\Aeropuerto.csproj.CoreCompileInputs.cache
+F:\Proyectos\Programción\C#\Aeropuerto\Aeropuerto\Aeropuerto\obj\Debug\netcoreapp3.1\Aeropuerto.dll
+F:\Proyectos\Programción\C#\Aeropuerto\Aeropuerto\Aeropuerto\obj\Debug\netcoreapp3.1\Aeropuerto.pdb
+F:\Proyectos\Programción\C#\Aeropuerto\Aeropuerto\Aeropuerto\obj\Debug\netcoreapp3.1\Aeropuerto.genruntimeconfig.cache
